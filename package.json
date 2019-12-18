@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "nuxt-payload-extractor@0.0.11",
+      "/Users/admin/Sites/ombudsman-vic-gov-au/frontend"
+    ]
+  ],
+  "_from": "nuxt-payload-extractor@0.0.11",
+  "_id": "nuxt-payload-extractor@0.0.11",
+  "_inBundle": false,
+  "_integrity": "sha512-LSSkVwNryt+O1PmDDthUBNYQnVCFe7PIwXvl1pU3sEEDC3BRWCp3hGGCj8/l7UBswTxgdUxlPTogPEofSdq1YA==",
+  "_location": "/nuxt-payload-extractor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nuxt-payload-extractor@0.0.11",
+    "name": "nuxt-payload-extractor",
+    "escapedName": "nuxt-payload-extractor",
+    "rawSpec": "0.0.11",
+    "saveSpec": null,
+    "fetchSpec": "0.0.11"
+  },
+  "_requiredBy": [
+    "/nuxt-craftcms"
+  ],
+  "_resolved": "https://registry.npmjs.org/nuxt-payload-extractor/-/nuxt-payload-extractor-0.0.11.tgz",
+  "_spec": "0.0.11",
+  "_where": "/Users/admin/Sites/ombudsman-vic-gov-au/frontend",
+  "bugs": {
+    "url": "https://github.com/DreaMinder/nuxt-payload-extractor/issues"
+  },
+  "contributors": [
+    {
+      "name": "DreaMinder",
+      "email": "dreaminder7@gmail.com"
+    }
+  ],
+  "description": "Nuxt.js module that makes `nuxt generate` command to store html and payload separately.",
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/DreaMinder/nuxt-payload-extractor",
+  "license": "MIT",
+  "main": "lib/module.js",
+  "name": "nuxt-payload-extractor",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreaMinder/nuxt-payload-extractor.git"
+  },
+  "version": "0.0.11"
+}
